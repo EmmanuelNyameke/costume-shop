@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\CostumeShop\bin\Debug\net8.0-windows\CostumeShop.exe
+C:\Users\HELLO\Source\Repos\CostumeShop\bin\Debug\net8.0-windows\CostumeShop.deps.json
+C:\Users\HELLO\Source\Repos\CostumeShop\bin\Debug\net8.0-windows\CostumeShop.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\CostumeShop\bin\Debug\net8.0-windows\CostumeShop.dll
+C:\Users\HELLO\Source\Repos\CostumeShop\bin\Debug\net8.0-windows\CostumeShop.pdb
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\CostumeShop.frmCostumeShop.resources
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\CostumeShop.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\CostumeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\CostumeShop.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\CostumeShop.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\CostumeShop.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\CostumeShop.dll
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\refint\CostumeShop.dll
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\CostumeShop.pdb
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\CostumeShop.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\ref\CostumeShop.dll
+C:\Users\HELLO\Source\Repos\CostumeShop\obj\Debug\net8.0-windows\CostumeShop.Resources.resources
